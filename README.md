@@ -1,8 +1,8 @@
-# MultiModalAE – Autoencoder Multimodal para Municipios Agrícolas
+# AgroEmbedder – Autoencoder Multimodal para Municipios Agrícolas
 
 ## Descripción
 
-**MultiModalAE** es un autoencoder multimodal diseñado para generar **embeddings de municipios mexicanos**, integrando información de:
+**AgroEmbedder** es un autoencoder multimodal diseñado para generar **embeddings de municipios mexicanos**, integrando información de:
 
 * Clima (temperatura, precipitación, etc.)
 * Edafología (suelo: MO, arcilla, arena, limos)
